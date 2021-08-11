@@ -6,7 +6,9 @@ Magpie can enlarge any window to full screen and supports a variety of advanced 
 It is mainly used for the enlarged display of the game window, and is suitable for situations where the full-screen mode is not supported, or the built-in full-screen mode will blur the picture.
 
 If you encounter problems during use, please submit an issue.
+
 ☛ [Compilation Guide](https://github.com/Blinue/Magpie/wiki/Compilation Guide)
+
 ☛ [FAQ](https://github.com/Blinue/Magpie/wiki/FAQ)
 
 ## Instructions
